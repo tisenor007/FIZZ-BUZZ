@@ -1,0 +1,7 @@
+C:\Users\W0455178\OneDrive - Nova Scotia Community College\VisualStudioProjects\FIZZBUZZ\FIZZBUZZ\bin\Debug\FIZZBUZZ.exe.config
+C:\Users\W0455178\OneDrive - Nova Scotia Community College\VisualStudioProjects\FIZZBUZZ\FIZZBUZZ\bin\Debug\FIZZBUZZ.exe
+C:\Users\W0455178\OneDrive - Nova Scotia Community College\VisualStudioProjects\FIZZBUZZ\FIZZBUZZ\bin\Debug\FIZZBUZZ.pdb
+C:\Users\W0455178\OneDrive - Nova Scotia Community College\VisualStudioProjects\FIZZBUZZ\FIZZBUZZ\obj\Debug\FIZZBUZZ.csproj.AssemblyReference.cache
+C:\Users\W0455178\OneDrive - Nova Scotia Community College\VisualStudioProjects\FIZZBUZZ\FIZZBUZZ\obj\Debug\FIZZBUZZ.csproj.CoreCompileInputs.cache
+C:\Users\W0455178\OneDrive - Nova Scotia Community College\VisualStudioProjects\FIZZBUZZ\FIZZBUZZ\obj\Debug\FIZZBUZZ.exe
+C:\Users\W0455178\OneDrive - Nova Scotia Community College\VisualStudioProjects\FIZZBUZZ\FIZZBUZZ\obj\Debug\FIZZBUZZ.pdb
